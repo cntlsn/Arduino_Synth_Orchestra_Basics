@@ -13,4 +13,5 @@ All the content is in the public domain and published under a 🍺 Beerware 🍺
 
 Have fun using and abusing the code at your own risk to learn more about making noise with the Arduino platform and to create your Arduino based synthesizers.
 
-♥︎
+Show some ♥ at
+info at alessandrocontini dot it︎
